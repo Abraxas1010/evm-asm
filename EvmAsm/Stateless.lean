@@ -36,3 +36,4 @@ import EvmAsm.Stateless.State
 import EvmAsm.Stateless.Entry
 import EvmAsm.Stateless.EntrySpec
 import EvmAsm.Stateless.SpecRef
+import EvmAsm.Stateless.WitnessAuth
